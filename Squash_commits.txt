@@ -13,3 +13,5 @@ $ git push origin branch-name --force
 Helpful hint: You can always edit your last commit message, before pushing, by using:
 
 $ git commit --amend
+
+Source: https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit
